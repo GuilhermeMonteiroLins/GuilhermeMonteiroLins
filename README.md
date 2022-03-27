@@ -1,16 +1,29 @@
-### Hi there 👋
+## Olá! Bem-Vindo ao Meu GitHub!!👋
 
-<!--
-**GuilhermeMonteiroLins/GuilhermeMonteiroLins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Nome: Guilherme Monteiro
+- 🌱 Idade: Tenho 20 anos
+- ✉️ Contato: guilins777@gmail.com
+- 🗺️ Local: Brazil, São Paulo
+- 🎒 Estudos Concluidos: Técnico em eletrônica
+- 📚 Cursando: Analise e desemvolvimento de sistemas (SENAC)
+- 👨🏽‍💻 A procura pela primeira vaga como dev
+##
+<div align="center">
+  <a href="https://github.com/GuilhermeMonteiroLins">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeMonteiroLins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeMonteiroLins&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
-Here are some ideas to get you started:
+<div style="display: inline_block"><br>
+  <img align="center" alt="Guilherme-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Guilheme-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Guilherme-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Guilherme-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ##
+  <div>
+  <a href = "mailto:guilins777@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/guilherme-monteiro-857720219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </div>
+  
