@@ -5,7 +5,7 @@
 - ✉️ Contato: guilins777@gmail.com
 - 🗺️ Local: Brazil, São Paulo
 - 🎒 Estudos Concluidos: Técnico em eletrônica
-- 📚 Cursando: Analise e desemvolvimento de sistemas (SENAC)
+- 📚 Cursando: Analise e desenvolvimento de sistemas (SENAC)
 - 👨🏽‍💻 A procura pela primeira vaga como dev
 ##
 <div align="center">
