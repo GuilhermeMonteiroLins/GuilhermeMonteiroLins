@@ -8,12 +8,13 @@
 - 📚 Cursando: Analise e desenvolvimento de sistemas (SENAC)
 - 👨🏽‍💻 A procura pela primeira vaga como dev
 ##
-<div align="center">
+<div align="left">
   <a href="https://github.com/GuilhermeMonteiroLins">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeMonteiroLins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeMonteiroLins&layout=compact&langs_count=7&theme=tokyonight"/>
-  <img height="180em" src="[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GuilhermeMonteiro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)"/>
 </div>
+  
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GuilhermeMonteiro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
 ## Ferramentas🛠️
   <div>
