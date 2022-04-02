@@ -14,7 +14,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeMonteiroLins&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GuilhermeMonteiro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GuilhermeMonteiro&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   
 ## Ferramentas🛠️
   <div>
