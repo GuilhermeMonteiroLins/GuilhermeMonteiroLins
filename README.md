@@ -14,6 +14,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeMonteiroLins&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
+ [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GuilhermeMonteiro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  
 ## Ferramentas🛠️
   <div>
     <img align="center" alt="Guilherme-HTML" height="30" width="100" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
