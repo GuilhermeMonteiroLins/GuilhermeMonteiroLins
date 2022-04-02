@@ -7,6 +7,7 @@
 - ✉️ Contato: guilins777@gmail.com
 - 🗺️ Local: Brazil, São Paulo
 - 🎓 Estudos Concluidos: Técnico em eletrônica✅
+- 🎓 Cursos On-lines: ([Certificados on-lines](https://github.com/GuilhermeMonteiroLins/Certificates))
 - 📚 Cursando: Analise e desenvolvimento de sistemas (SENAC)
 - 👨🏽‍💻 A procura pela primeira vaga como dev
 
