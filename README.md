@@ -10,9 +10,9 @@
 ##
 <div align="center">
   <a href="https://github.com/GuilhermeMonteiroLins">
-  <img height="300em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeMonteiroLins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeMonteiroLins&layout=compact&langs_count=7&theme=tokyonight"/>
-  <img height="230em" src="https://github-readme-stats.vercel.app/api/wakatime?username=GuilhermeMonteiro&show_icons=true&theme=tokyonight"/>
+  <img align="center"height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeMonteiroLins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeMonteiroLins&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=GuilhermeMonteiro&show_icons=true&theme=tokyonight"/>
 </div>
  
   
