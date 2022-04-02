@@ -1,4 +1,6 @@
-## Olá! Bem-Vindo ao Meu GitHub!!👋
+<h1 align="center">
+ Olá! Bem-Vindo ao Meu GitHub!!👋
+  </h1>
 
 - 🔭 Nome: Guilherme Monteiro
 - 🌱 Idade: Tenho 20 anos
@@ -7,14 +9,30 @@
 - 🎒 Estudos Concluidos: Técnico em eletrônica
 - 📚 Cursando: Analise e desenvolvimento de sistemas (SENAC)
 - 👨🏽‍💻 A procura pela primeira vaga como dev
-##
+
+<hr>
+<h1 align="center">
+ Atribuições📤
+  </h1>
 <div align="center">
   <a href="https://github.com/GuilhermeMonteiroLins">
-  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeMonteiroLins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeMonteiroLins&layout=compact&langs_count=7&theme=tokyonight"/>
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/wakatime?username=GuilhermeMonteiro&show_icons=true&theme=tokyonight"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeMonteiroLins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
- 
+  
+<h1 align="center">
+    Linguagens Utilizadas🗂️
+</h1>
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeMonteiroLins&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+  
+<h1 align="center">
+  Tempo Programando⏳
+</h1>
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/wakatime?username=GuilhermeMonteiro&show_icons=true&theme=tokyonight"/>
+</div>
+<hr>
   
 ## Ferramentas🛠️
   <div>
