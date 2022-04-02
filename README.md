@@ -46,7 +46,7 @@
  </div>
 
 <hr>
-<h1 align="center">Sobre os Códigos</h1>
+<h1 align="center">Sobre os Códigos🧩</h1>
 
   <h2 align="left">Atribuições📤</h2>
     <div align="left">
