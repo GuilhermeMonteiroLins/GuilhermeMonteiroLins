@@ -54,15 +54,11 @@
       <img height="200em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeMonteiroLins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
   
-  <h2 align="center">Linguagens Utilizadas🗂️</h2>
-    <div align="center">
+  <h2 align="right">Linguagens Utilizadas🗂️</h2>
+    <div align="right">
       <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeMonteiroLins&layout=compact&langs_count=7&theme=tokyonight"/>
     </div>
   
-  <h2 align="right">Tempo Programando⏳</h2>
-    <div align="right">
-      <img height="160em" src="https://github-readme-stats.vercel.app/api/wakatime?username=GuilhermeMonteiro&show_icons=true&theme=tokyonight"/>
-    </div>
 <hr>
 
 <h1 align="center">Redes para Contato📞</h1>
